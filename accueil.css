@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    width: 45%;
+    height: 100px;
+    background-color: rgb(247, 243, 243);
+    color: red;
+    line-height: 100px;
+    text-align: center;
+    margin: 320px;
+}
+body{
+    background-color: blueviolet;
+}
